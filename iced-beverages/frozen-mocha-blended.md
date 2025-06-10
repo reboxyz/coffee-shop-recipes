@@ -4,23 +4,27 @@
 
 ## Ingredients
 
-- 1 shot Espresso Roast
-- 1 1/2 cups ice
-- 3/4 cup whole milk
-- 2 Tbsp dark chocolate sauce/syrup
-- Whipped cream
-- Chocolate shavings
+-   1 shot Espresso Roast
+-   1 1/2 cups ice
+-   3/4 cup whole milk
+-   2 Tbsp dark chocolate sauce/syrup
+-   Whipped cream
+-   Chocolate shavings
 
 ## How to Make Mocha Frozen Blended Coffee​
 
 ### Step 1
 
-- Prepare 1 shot of espresso.
+-   Prepare 1 shot of espresso.
 
 ### Step 2
 
-- Place ice, milk, chocolate sauce and espresso into a blender. Start at low speed, then blend on high for 30 seconds.
+-   Place ice, milk, chocolate sauce and espresso into a blender. Start at low speed, then blend on high for 30 seconds.
 
 ### Step 3
 
-- Pour blended mixture into 16-oz glass.
+-   Pour blended mixture into 16-oz glass.
+
+### Step 4
+
+-   Top with whipped cream and chocolate shavings.
